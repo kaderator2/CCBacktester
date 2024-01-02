@@ -1,5 +1,7 @@
 # FOREX Correlation Coefficient Backtester
 
+## This is quite a old project of mine and was made back in 2019 while I was in highschool.
+
 ## Overview
 The Correlation Coefficient Backtester is a simple Python-based application designed to help backtest a simple Correlation Coefficient technical strategy given previous market data. It provides insights into currency pair movements and their correlation. This tool primarily focuses on two major currency pairs: EUR/USD (Euro/US Dollar) and GBP/USD (British Pound/US Dollar), offering a graphical representation of their normalized values and the correlation coefficient over time.
 
@@ -19,4 +21,3 @@ The Correlation Coefficient Backtester is a simple Python-based application desi
 
 This tool provides a valuable resource for anyone involved in the Forex market, combining real-time data processing with interactive graphical representations for enhanced market analysis.
 
-## This is quite a old project of mine and was made back in 2019 while I was in highschool.
