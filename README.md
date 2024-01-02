@@ -3,7 +3,7 @@
 ## Overview
 The Correlation Coefficient Backtester is a simple Python-based application designed to help backtest a simple Correlation Coefficient technical strategy given previous market data. It provides insights into currency pair movements and their correlation. This tool primarily focuses on two major currency pairs: EUR/USD (Euro/US Dollar) and GBP/USD (British Pound/US Dollar), offering a graphical representation of their normalized values and the correlation coefficient over time.
 
-![alt text](https://imgur.com/a/3s30UxN.gif)
+![alt text](https://imgur.com/PtnDsFF)
 
 ## Key Features
 1. **Data Parsing and Visualization**: The tool continuously parses updated data from specified text files (`EURUSD.csv` and `GBPUSD.csv`) and visually represents this data in real-time.
